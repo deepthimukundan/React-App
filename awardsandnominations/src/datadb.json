@@ -1,0 +1,72 @@
+{
+  "awardslist": [
+    {
+      "id": 1,
+      "AwardCategory": "Best Actor",
+      "Nominees": [
+        "Will Smith",
+        "Javier Bardem",
+        "Benedict Cumberbatch",
+        "Andrew Garfield"
+      ],
+      "vote": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "winner": ""
+    },
+    {
+      "id": 2,
+      "AwardCategory": "Best Director",
+      "Nominees": [
+        "Jane Campion",
+        "Kenneth Branagh",
+        "Ryusuke Hamaguchi",
+        "Paul Thomas Anderson"
+      ],
+      "vote": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "winner": ""
+    },
+    {
+      "id": 3,
+      "AwardCategory": "Best Movie",
+      "Nominees": [
+        "KING RICHARD",
+        "CODA",
+        "DON'T LOOK UP",
+        "BELFAST"
+      ],
+      "vote": [
+        0,
+        0,
+        1,
+        0
+      ],
+      "winner": ""
+    }
+  ],
+  "user": [
+    {
+      "name": "tyccs",
+      "email": "xzxz1d@dsd.sf",
+      "id": 1
+    },
+    {
+      "name": "deethi",
+      "email": "deded@d.ceww",
+      "id": 2
+    },
+    {
+      "name": "deepthi",
+      "email": "Inquiry@cognizant.com",
+      "id": 3
+    }
+  ]
+}
