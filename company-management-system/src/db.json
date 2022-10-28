@@ -1,0 +1,39 @@
+{
+  "company": [
+    {
+      "id": 1,
+      "c_name": "Infosys",
+      "c_ceo": "Salil Parekh",
+      "c_founded": "1981",
+      "c_head": "Bengalore",
+      "c_empNo": "12310",
+      "c_contact": [
+        {
+          "number": "912022932799",
+          "email": "askus@infosys.co"
+        },
+        {
+          "number": "343243434",
+          "email": "deded@d.c"
+        },
+        {
+          "number": "8798798789",
+          "email": ""
+        },
+        {
+          "number": "9744785969",
+          "email": ""
+        }
+      ]
+    },
+    {
+      "c_name": "TCS",
+      "c_ceo": "AArelum",
+      "c_founded": "1930",
+      "c_head": "Mumbai",
+      "c_empNo": "9999999",
+      "c_contact": [],
+      "id": 2
+    }
+  ]
+}
